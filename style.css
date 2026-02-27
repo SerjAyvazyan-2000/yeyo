@@ -640,7 +640,7 @@ header {
 }
 .hero-small-cart-texts p {
   font-family: "Manrope";
-  font-weight: 600;
+  font-weight: 400;
   font-size: 16px;
   line-height: 20px;
   color: var(--text-color);
@@ -1650,13 +1650,13 @@ header {
     line-height: 20px;
   }
   .hero-section {
-    margin-top: 168px;
+    margin-top: 147px;
   }
   .hero-tags-items {
     margin-top: 37px;
   }
   .hero-blur {
-    top: -190px;
+    top: -160px;
   }
   .p-item-texts h2 {
     font-size: 18px;

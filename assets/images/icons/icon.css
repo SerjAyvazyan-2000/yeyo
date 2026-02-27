@@ -60,3 +60,11 @@
     mask-image: url(order.svg);
   -webkit-mask-image: url(order.svg);
 }
+.icon-pen{
+    mask-image: url(pen.svg);
+  -webkit-mask-image: url(pen.svg);
+}
+.icon-school{
+      mask-image: url(school.svg);
+  -webkit-mask-image: url(school.svg);
+}
