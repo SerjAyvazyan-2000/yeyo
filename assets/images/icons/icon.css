@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+.icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-position: center;
+}
+
+
+.icon-arrowUp {
+  mask-image: url(arrowUp.svg);
+  -webkit-mask-image: url(arrowUp.svg);
+}
+
+.icon-material {
+  mask-image: url(material.svg);
+  -webkit-mask-image: url(material.svg);
+}
+.icon-art {
+  mask-image: url(art.svg);
+  -webkit-mask-image: url(art.svg);
+}
+.icon-heart {
+  mask-image: url(heart.svg);
+  -webkit-mask-image: url(heart.svg);
+}
+.icon-dots {
+  mask-image: url(dots.svg);
+  -webkit-mask-image: url(dots.svg);
+}
+.icon-arrowLeft {
+  mask-image: url(arrowLeft.svg);
+  -webkit-mask-image: url(arrowLeft.svg);
+}
+.icon-tabler {
+  mask-image: url(tabler.svg);
+  -webkit-mask-image: url(tabler.svg);
+}
+.icon-edit {
+  mask-image: url(edit.svg);
+  -webkit-mask-image: url(edit.svg);
+}
+
+.icon-plus {
+  mask-image: url(plus.svg);
+  -webkit-mask-image: url(plus.svg);
+}
+.icon-lightning {
+  mask-image: url(lightning.svg);
+  -webkit-mask-image: url(lightning.svg);
+}
+
+.icon-order{
+    mask-image: url(order.svg);
+  -webkit-mask-image: url(order.svg);
+}
